@@ -1,19 +1,13 @@
-README.md
+### Data Generate
+There are four main files in it;
+- `1.exe`: main program;
+- `data.cpp`: the Builder of a alone data;
+- `Std.cpp`: the program to convert InputFiles to OutputFiles;
+- `settings.txt`: the Configuration of the program.
 
-### 傻瓜式数据生成器——一键生成
-本实例中有四个文件, 分别为
-- 1.exe
-- data.cpp
-- Std.cpp
-- settings.txt
+You should generate you Datas by
+1. Modify the `settings.txt`;
+2. Code the `data.cpp` or `Std.cpp`;
+3. Run the `1.exe`.
 
-作用分别为
-- 主程序
-- 一组数据的数据生成器
-- 标程
-- 配置文件
-
-而生成一套数据只需要三个步骤
-1. 修改配置文件
-2. 写数据生成器(data.cpp)
-3. 运行1.exe
+I use c++, you also can use other Programming language to do it, such as Python and C#;

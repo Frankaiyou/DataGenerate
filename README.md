@@ -1,6 +1,6 @@
 ### The Introduction of **Data Generate**
 There are four main files in it;
-- `1.exe`: Main program;
+- `main.exe`: Main program;
 - `data.cpp`: The Builder of a alone data;
 - `Std.cpp`: The program to convert Input File to Output File;
 - `settings.txt`: The Configuration of the program.
